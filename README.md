@@ -156,8 +156,8 @@ This solution applies the **Grey Wolf Optimizer Algorithm** to solve the Traveli
 
 ---
 
-### ⚙️ GitHub Stats
+<!-- ### ⚙️ GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elkams&show_icons=true&theme=radical" alt="Khadija El Kammas' GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkams&layout=compact&theme=radical" alt="Most used languages by Khadija El Kammas" />
-</p>
+</p> -->
