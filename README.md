@@ -1,7 +1,9 @@
 # Hi 👋, I'm Khadija EL KAMMAS
 
 ## 👩‍💻 About Me
+
 I am currently a second-year Master's student in Computer Engineering, deeply passionate about harnessing the power of technology and innovation to drive impactful solutions. With a keen interest in project management, I thrive in collaborative environments where I can leverage my strong communication and leadership skills. I am adept at working in diverse teams, contributing effectively to shared goals, and fostering a culture of creativity and problem-solving. My ability to quickly adapt to new technologies enables me to tackle complex challenges head-on, and I am eager to apply my skills and knowledge in a final-year internship in IT, where I can further develop my expertise and make meaningful contributions to real-world projects.
+
 ---
 
 ### 🎓 Education
