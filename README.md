@@ -112,33 +112,80 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 
 ---
 
-### 📈 Projects
-#### 1. **Data Ingestion Automation in E-commerce**  
-This project automates data ingestion in an e-commerce context to improve the user experience. It leverages **Python**, **Spring Boot**, **Neo4j**, and **Elasticsearch** to ensure real-time data processing and optimization, enhancing scalability and user engagement.
+# 📈 Projects
 
-#### 2. **Smart Pedometer: Revolutionizing Physical Activity Monitoring**  
-This mobile application, built using **Flutter** for the front-end and **Django** for the back-end, allows users to monitor their daily physical activities, such as steps, distance, and calories burned, with advanced analytics and progress tracking.
+## 1. Data Ingestion Automation in E-commerce
+- **Objectif** : Automatiser l'ingestion de données dans un contexte e-commerce pour améliorer l'expérience utilisateur.
+- **Technologies** : Utilisation de Python, Spring Boot, Neo4j, et Elasticsearch.
+- **Fonctionnalités** :
+  - Traitement de données en temps réel pour assurer une mise à jour instantanée des informations.
+  - Optimisation des performances pour gérer des volumes de données élevés.
+  - Amélioration de l'engagement utilisateur grâce à des recommandations personnalisées.
 
-#### 3. **FacialGuard: Secure Chat with Facial Recognition**  
-FacialGuard integrates facial recognition into a chat platform using **Python**, **HTML**, **CSS**, **JavaScript**, and **Django**. The app enhances user security by analyzing and recognizing emotions, making interactions more personalized and secure.
+## 2. Smart Pedometer: Revolutionizing Physical Activity Monitoring
+- **Objectif** : Suivre et analyser les activités physiques des utilisateurs à travers une application mobile.
+- **Technologies** : Développé avec Flutter (front-end) et Django (back-end).
+- **Fonctionnalités** :
+  - Suivi des pas, distance parcourue et calories brûlées.
+  - Outils d'analyse avancés pour visualiser les progrès.
+  - Notifications et encouragements pour motiver les utilisateurs à atteindre leurs objectifs de fitness.
 
-#### 4. **Containerized Deployment of E-commerce Application**  
-By leveraging **Docker** and **Docker Compose**, this project ensures efficient deployment of e-commerce applications in containerized environments, streamlining maintenance and scalability in cloud infrastructure.
+## 3. FacialGuard: Secure Chat with Facial Recognition
+- **Objectif** : Améliorer la sécurité des communications en intégrant la reconnaissance faciale.
+- **Technologies** : Développé avec Python, HTML, CSS, JavaScript, et Django.
+- **Fonctionnalités** :
+  - Analyse des émotions pour des interactions plus personnalisées.
+  - Système de notification en cas d'identité non reconnue.
+  - Interface utilisateur intuitive pour faciliter les discussions sécurisées.
 
-#### 5. **Emotional Exploration through Data Mining**  
-This project applies **Data Mining** techniques to uncover hidden emotional patterns from large datasets. Using **Python** and advanced algorithms, it provides insights into emotional trends that are crucial for user experience and marketing strategies.
+## 4. Containerized Deployment of E-commerce Application
+- **Objectif** : Simplifier le déploiement des applications e-commerce en utilisant des conteneurs.
+- **Technologies** : Utilisation de Docker et Docker Compose.
+- **Fonctionnalités** :
+  - Gestion des environnements de développement, de test et de production avec des configurations identiques.
+  - Scalabilité facile pour s'adapter à une augmentation du trafic.
+  - Maintenance simplifiée grâce à des mises à jour et des déploiements rapides.
 
-#### 6. **Decision Revolution: Data Warehouse & Business Intelligence**  
-This project introduces an advanced approach to **Business Intelligence** using **Talend** and **Power BI**. The solution provides multi-dimensional schemas and interactive dashboards to facilitate decision-making processes based on real-time data analysis.
+## 5. Emotional Exploration through Data Mining
+- **Objectif** : Découvrir des motifs émotionnels cachés dans de grands ensembles de données.
+- **Technologies** : Utilisation de Python et d'algorithmes avancés.
+- **Fonctionnalités** :
+  - Extraction et analyse de sentiments pour comprendre les préférences des utilisateurs.
+  - Visualisation des données pour présenter les résultats de manière claire et engageante.
+  - Utilisation des insights pour affiner les stratégies de marketing.
 
-#### 7. **Distributed Task Processing System**  
-A system designed to distribute and process tasks across multiple nodes, using **Java** with **Sockets** and object-oriented programming. This solution improves the efficiency of large-scale data processing tasks by leveraging distributed computing.
+## 6. Decision Revolution: Data Warehouse & Business Intelligence
+- **Objectif** : Améliorer la prise de décision grâce à une approche avancée de l'intelligence d'affaires.
+- **Technologies** : Utilisation de Talend et Power BI.
+- **Fonctionnalités** :
+  - Création de schémas multidimensionnels pour structurer les données.
+  - Tableaux de bord interactifs pour visualiser les performances en temps réel.
+  - Outils d'analyse pour identifier des tendances et des opportunités de croissance.
 
-#### 8. **Car Rental Application**  
-A full-featured car rental application with real-time booking and management features. The user interface is built with **JavaFX**, while the back-end runs on **Jakarta EE**, offering a seamless and intuitive experience for users and administrators.
+## 7. Distributed Task Processing System
+- **Objectif** : Créer un système efficace pour distribuer et traiter des tâches sur plusieurs nœuds.
+- **Technologies** : Développé avec Java, en utilisant des Sockets et des concepts de programmation orientée objet.
+- **Fonctionnalités** :
+  - Répartition intelligente des tâches pour maximiser l'efficacité.
+  - Gestion des erreurs et des échecs dans le traitement des tâches.
+  - Suivi des performances et des statistiques en temps réel.
 
-#### 9. **Traveling Salesman Problem Solution using the Grey Wolf Optimizer Algorithm**  
-This solution applies the **Grey Wolf Optimizer Algorithm** to solve the Traveling Salesman Problem (TSP). Using **Python** and **Matlab**, the project optimizes travel routes to reduce operational costs in logistics and supply chain management.
+## 8. Car Rental Application
+- **Objectif** : Offrir une solution complète de location de voitures avec gestion en temps réel.
+- **Technologies** : Interface utilisateur développée avec JavaFX et back-end sur Jakarta EE.
+- **Fonctionnalités** :
+  - Système de réservation en temps réel avec confirmation instantanée.
+  - Gestion des utilisateurs et des voitures disponibles.
+  - Interface conviviale pour les utilisateurs et les administrateurs.
+
+## 9. Traveling Salesman Problem Solution using the Grey Wolf Optimizer Algorithm
+- **Objectif** : Résoudre le problème du voyageur de commerce (TSP) pour optimiser les itinéraires.
+- **Technologies** : Utilisation de Python et Matlab pour le développement.
+- **Fonctionnalités** :
+  - Application de l'algorithme Grey Wolf Optimizer pour trouver les routes les plus courtes.
+  - Analyse des coûts opérationnels pour les entreprises logistiques.
+  - Amélioration de l'efficacité du transport dans la gestion de la chaîne d'approvisionnement.
+
 
 ---
 
