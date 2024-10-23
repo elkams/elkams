@@ -124,78 +124,76 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 # 📈 Projects
 
 ## 1. Data Ingestion Automation in E-commerce
-- **Objectif** : Automatiser l'ingestion de données dans un contexte e-commerce pour améliorer l'expérience utilisateur.
-- **Technologies** : Utilisation de Python, Spring Boot, Neo4j, et Elasticsearch.
-- **Fonctionnalités** :
-  - Traitement de données en temps réel pour assurer une mise à jour instantanée des informations.
-  - Optimisation des performances pour gérer des volumes de données élevés.
-  - Amélioration de l'engagement utilisateur grâce à des recommandations personnalisées.
+- **Objective**: Automate data ingestion in an e-commerce context to enhance user experience.
+- **Technologies**: Python, Spring Boot, Neo4j, and Elasticsearch.
+- **Features**:
+  - Real-time data processing to ensure instant information updates.
+  - Performance optimization to handle large volumes of data.
+  - Improved user engagement through personalized recommendations.
 
 ## 2. Smart Pedometer: Revolutionizing Physical Activity Monitoring
-- **Objectif** : Suivre et analyser les activités physiques des utilisateurs à travers une application mobile.
-- **Technologies** : Développé avec Flutter (front-end) et Django (back-end).
-- **Fonctionnalités** :
-  - Suivi des pas, distance parcourue et calories brûlées.
-  - Outils d'analyse avancés pour visualiser les progrès.
-  - Notifications et encouragements pour motiver les utilisateurs à atteindre leurs objectifs de fitness.
+- **Objective**: Track and analyze users' physical activities through a mobile application.
+- **Technologies**: Developed with Flutter (front-end) and Django (back-end).
+- **Features**:
+  - Tracks steps, distance traveled, and calories burned.
+  - Advanced analysis tools to visualize progress.
+  - Notifications and encouragements to motivate users to reach their fitness goals.
 
 ## 3. FacialGuard: Secure Chat with Facial Recognition
-- **Objectif** : Améliorer la sécurité des communications en intégrant la reconnaissance faciale.
-- **Technologies** : Développé avec Python, HTML, CSS, JavaScript, et Django.
-- **Fonctionnalités** :
-  - Analyse des émotions pour des interactions plus personnalisées.
-  - Système de notification en cas d'identité non reconnue.
-  - Interface utilisateur intuitive pour faciliter les discussions sécurisées.
+- **Objective**: Enhance communication security by integrating facial recognition.
+- **Technologies**: Developed with Python, HTML, CSS, JavaScript, and Django.
+- **Features**:
+  - Emotion analysis for more personalized interactions.
+  - Notification system in case of unrecognized identity.
+  - Intuitive user interface to facilitate secure conversations.
 
 ## 4. Containerized Deployment of E-commerce Application
-- **Objectif** : Simplifier le déploiement des applications e-commerce en utilisant des conteneurs.
-- **Technologies** : Utilisation de Docker et Docker Compose.
-- **Fonctionnalités** :
-  - Gestion des environnements de développement, de test et de production avec des configurations identiques.
-  - Scalabilité facile pour s'adapter à une augmentation du trafic.
-  - Maintenance simplifiée grâce à des mises à jour et des déploiements rapides.
+- **Objective**: Simplify the deployment of e-commerce applications using containers.
+- **Technologies**: Docker and Docker Compose.
+- **Features**:
+  - Manage development, test, and production environments with identical configurations.
+  - Easy scalability to adapt to increased traffic.
+  - Simplified maintenance with fast updates and deployments.
 
 ## 5. Emotional Exploration through Data Mining
-- **Objectif** : Découvrir des motifs émotionnels cachés dans de grands ensembles de données.
-- **Technologies** : Utilisation de Python et d'algorithmes avancés.
-- **Fonctionnalités** :
-  - Extraction et analyse de sentiments pour comprendre les préférences des utilisateurs.
-  - Visualisation des données pour présenter les résultats de manière claire et engageante.
-  - Utilisation des insights pour affiner les stratégies de marketing.
+- **Objective**: Discover hidden emotional patterns in large datasets.
+- **Technologies**: Python and advanced algorithms.
+- **Features**:
+  - Sentiment extraction and analysis to understand user preferences.
+  - Data visualization to present results clearly and engagingly.
+  - Use insights to refine marketing strategies.
 
 ## 6. Decision Revolution: Data Warehouse & Business Intelligence
-- **Objectif** : Améliorer la prise de décision grâce à une approche avancée de l'intelligence d'affaires.
-- **Technologies** : Utilisation de Talend et Power BI.
-- **Fonctionnalités** :
-  - Création de schémas multidimensionnels pour structurer les données.
-  - Tableaux de bord interactifs pour visualiser les performances en temps réel.
-  - Outils d'analyse pour identifier des tendances et des opportunités de croissance.
+- **Objective**: Improve decision-making through an advanced business intelligence approach.
+- **Technologies**: Talend and Power BI.
+- **Features**:
+  - Creation of multidimensional schemas to structure data.
+  - Interactive dashboards to visualize real-time performance.
+  - Analysis tools to identify trends and growth opportunities.
 
 ## 7. Distributed Task Processing System
-- **Objectif** : Créer un système efficace pour distribuer et traiter des tâches sur plusieurs nœuds.
-- **Technologies** : Développé avec Java, en utilisant des Sockets et des concepts de programmation orientée objet.
-- **Fonctionnalités** :
-  - Répartition intelligente des tâches pour maximiser l'efficacité.
-  - Gestion des erreurs et des échecs dans le traitement des tâches.
-  - Suivi des performances et des statistiques en temps réel.
+- **Objective**: Create an efficient system for distributing and processing tasks across multiple nodes.
+- **Technologies**: Developed with Java using Sockets and object-oriented programming concepts.
+- **Features**:
+  - Intelligent task distribution to maximize efficiency.
+  - Error handling and failure management in task processing.
+  - Real-time performance tracking and statistics.
 
 ## 8. Car Rental Application
-- **Objectif** : Offrir une solution complète de location de voitures avec gestion en temps réel.
-- **Technologies** : Interface utilisateur développée avec JavaFX et back-end sur Jakarta EE.
-- **Fonctionnalités** :
-  - Système de réservation en temps réel avec confirmation instantanée.
-  - Gestion des utilisateurs et des voitures disponibles.
-  - Interface conviviale pour les utilisateurs et les administrateurs.
+- **Objective**: Provide a complete car rental solution with real-time management.
+- **Technologies**: User interface developed with JavaFX and back-end on Jakarta EE.
+- **Features**:
+  - Real-time booking system with instant confirmation.
+  - User and vehicle management.
+  - User-friendly interface for both users and administrators.
 
 ## 9. Traveling Salesman Problem Solution using the Grey Wolf Optimizer Algorithm
-- **Objectif** : Résoudre le problème du voyageur de commerce (TSP) pour optimiser les itinéraires.
-- **Technologies** : Utilisation de Python et Matlab pour le développement.
-- **Fonctionnalités** :
-  - Application de l'algorithme Grey Wolf Optimizer pour trouver les routes les plus courtes.
-  - Analyse des coûts opérationnels pour les entreprises logistiques.
-  - Amélioration de l'efficacité du transport dans la gestion de la chaîne d'approvisionnement.
-
-
+- **Objective**: Solve the Traveling Salesman Problem (TSP) to optimize routes.
+- **Technologies**: Developed using Python and Matlab.
+- **Features**:
+  - Application of the Grey Wolf Optimizer algorithm to find the shortest routes.
+  - Operational cost analysis for logistics companies.
+  - Improved transportation efficiency in supply chain management.
 ---
 
 ### 🌐 Languages
@@ -211,9 +209,11 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 - **GitHub:** [elkams](https://github.com/elkams)
 
 ---
-
-<!-- ### ⚙️ GitHub Stats
+### 📈 Contributions Overview
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elkams&layout=compact)](https://github.com/elkams/github-readme-stats)
+---
+### ⚙️ GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elkams&show_icons=true&theme=radical" alt="Khadija El Kammas' GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkams&layout=compact&theme=radical" alt="Most used languages by Khadija El Kammas" />
-</p> -->
+</p> 
