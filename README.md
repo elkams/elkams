@@ -209,11 +209,18 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 - **GitHub:** [elkams](https://github.com/elkams)
 
 ---
-### 📈 Contributions Overview
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elkams&layout=compact)](https://github.com/elkams/github-readme-stats)
----
 ### ⚙️ GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elkams&show_icons=true&theme=radical" alt="Khadija El Kammas' GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkams&layout=compact&theme=radical" alt="Most used languages by Khadija El Kammas" />
-</p> 
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkams&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=elkams&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=elkams&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
+</p>
+ 
