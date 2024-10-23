@@ -1,3 +1,11 @@
+![Khadija's GitHub Banner](https://github.com/elkams/elkams/blob/main/banner.png)
+
+## Hi there 👋
+
+I am Khadija, a passionate computer engineer. Here’s what I do:
+- 🌱 I’m currently learning new tools in data science and backend development.
+- 🔭 I’m working on [some exciting projects](https://github.com/elkams).
+- 📫 You can reach me at: [khadija.email@example.com](mailto:khadija.email@example.com)
 # Hi 👋, I'm Khadija EL KAMMAS
 
 ## 👩‍💻 About Me
