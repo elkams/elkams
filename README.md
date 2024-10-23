@@ -217,7 +217,6 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkams&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=elkams&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="left">
