@@ -141,7 +141,7 @@ I am currently a second-year Master's student in Computer Engineering, deeply pa
 
 ## 3. FacialGuard: Secure Chat with Facial Recognition
 - **Objective**: Enhance communication security by integrating facial recognition.
-- **Technologies**: Developed with Python, HTML, CSS, JavaScript, and Django.
+- **Technologies**: Developed with Python, Angular, and Django.
 - **Features**:
   - Emotion analysis for more personalized interactions.
   - Notification system in case of unrecognized identity.
